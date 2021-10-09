@@ -1,0 +1,3 @@
+## Metodologia
+No começo, usamos algumas ferramentas disponibilizada pelos nossos professores, para fazermos a idealização do projeto, fazendo assim um melhor fluxo de ideias para terminarmos a concepção do projeto.
+A metodologia final usada para esse sprint foi a criação de um website responsivo e funcional, para o uso diario do usuário. Com os wireframes de telas mobile(que é o foco do site) podemos ver como o usuário irá interagir e evoluir na aplicação.
